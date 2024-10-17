@@ -1,0 +1,15 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "MyContract",
+  "sourceName": "contracts/getting_started_with_solidity/11_fallback_function/MyContract.sol",
+  "abi": [
+    {
+      "stateMutability": "payable",
+      "type": "fallback"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603c80601d6000396000f3fe608060405200fea26469706673582212202db386928b1aa6e2fc5f7e9494326345127d0519f6f89b722e0a178813d7b9c264736f6c63430008090033",
+  "deployedBytecode": "0x608060405200fea26469706673582212202db386928b1aa6e2fc5f7e9494326345127d0519f6f89b722e0a178813d7b9c264736f6c63430008090033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
